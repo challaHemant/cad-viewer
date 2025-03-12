@@ -59,6 +59,7 @@ Install dependencies:
   - npm install  # Or use yarn install
 Start the React app:
   - npm start
+  - 1999 RQ36 asteroid.glb(checkout the sample file to upload)
 📤 Upload & Convert a Model
 Open the frontend (http://localhost:3000).
 Upload a .glb file using the UI.
